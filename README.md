@@ -26,7 +26,6 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
   - [Knowledge Distillation for Vision-Language Embedding Models](#knowledge-distillation-for-vision-language-embedding-models)
   - [VLM Knowledge Distillation for Segmentation](#vlm-knowledge-distillation-for-segmentation)
   - [VLM Knowledge Distillation for Open-Vocabulary Object Detection](#vlm-knowledge-distillation-for-open-vocabulary-object-detection)
-  - [Citation](#citation)
 
 
 ## Section I: Response-based Distillation
