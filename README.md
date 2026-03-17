@@ -6,6 +6,8 @@ In this paper, we present the first dedicated survey of knowledge distillation f
 
 Below is the taxonomy summarizing the landscape of knowledge distillation research for VLMs:
 
+![Taxonomy](./Figure/Taxonomy.png)
+
 ## 📚 Table of Contents
 
 - [Awesome-KD-VLMs](#awesome-kd-vlms)
