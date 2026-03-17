@@ -60,15 +60,18 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 
 **Preference Distillation**
 
+* Embedding the Teacher: Distilling vLLM Preferences for Scalable Image Retrieval [[Paper]](https://arxiv.org/abs/2510.12014) ![](https://img.shields.io/badge/year-2025-red)
 * LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation [[Paper]](https://arxiv.org/abs/2408.15881) ![](https://img.shields.io/badge/year-2024-red)
 * mDPO: Conditional Preference Optimization for Multimodal Large Language Models [[Paper]](https://aclanthology.org/2024.emnlp-main.460/) ![](https://img.shields.io/badge/year-2024-red)
-
+* Silkie: Preference Distillation for Large Visual Language Models [[Paper]](https://arxiv.org/abs/2312.10665) ![](https://img.shields.io/badge/year-2023-red)
 
 ## Section II: Feature-based Distillation
 
 **Hidden-state Distillation**
 
+* Masking Teacher and Reinforcing Student for Distilling Vision-Language Models [[Paper]](https://arxiv.org/abs/2512.22238) ![](https://img.shields.io/badge/year-2025-red)
 * Layerwised Multimodal Knowledge Distillation for Vision-Language Pretrained Model [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608024001965) ![](https://img.shields.io/badge/year-2024-red)
+* Module-wise Adaptive Distillation for Multimodality Foundation Models [[Paper]](https://arxiv.org/abs/2310.04550) ![](https://img.shields.io/badge/year-2023-red)
 * KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation [[Paper]](https://arxiv.org/abs/2109.10504) ![](https://img.shields.io/badge/year-2022-red)
 * Building Vision-Language Models on Solid Foundations with Masked Distillation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/year-2024-red)
 * TinyViT: Fast Pretraining Distillation for Small Vision Transformers [[Paper]](https://arxiv.org/abs/2207.10666) ![](https://img.shields.io/badge/year-2022-red)
@@ -90,6 +93,8 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 
 **Cross-modal Feature Distillation**
 
+* VLScene: Vision-language guidance distillation for camera-based 3D semantic scene completion [[Paper]](https://arxiv.org/abs/2503.06219) ![](https://img.shields.io/badge/year-2025-red)
+* 3D-aware vision-language models fine-tuning with geometric distillation [[Paper]](https://arxiv.org/abs/2506.09883) ![](https://img.shields.io/badge/year-2025-red)
 * EM-KD: Distilling Efficient Multimodal Large Language Model with Unbalanced Vision Tokens [[Paper]](https://arxiv.org/pdf/2511.21106) ![](https://img.shields.io/badge/year-2025-red)
 * Align-KD: Distilling Cross-Modal Alignment Knowledge for Mobile Vision-Language Model [[Paper]](https://openreview.net/pdf?id=xsCK546dra) ![](https://img.shields.io/badge/year-2024-red)
 * Modality-specific Knowledge Distillation with Wasserstein Distance Minimization for Vision-Language Pretrained Models [[Paper]](https://ieeexplore.ieee.org/document/11178237) ![](https://img.shields.io/badge/year-2025-red)
@@ -112,6 +117,8 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 
 **Similarity-based Distillation**
 
+* Embedding the Teacher: Distilling vLLM Preferences for Scalable Image Retrieval [[Paper]](https://arxiv.org/abs/2510.12014) ![](https://img.shields.io/badge/year-2025-red)
+* DLIP: Distilling Language-Image Pre-training [[Paper]](https://arxiv.org/abs/2308.12956) ![](https://img.shields.io/badge/year-2023-red)
 * CLIP-KD: An Empirical Study of CLIP Model Distillation [[Paper]](https://arxiv.org/abs/2307.12732) ![](https://img.shields.io/badge/year-2023-red)
 * TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance [[Paper]](https://arxiv.org/abs/2309.12314) ![](https://img.shields.io/badge/year-2023-red)
 * MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training [[Paper]](https://arxiv.org/abs/2311.17049) ![](https://img.shields.io/badge/year-2024-red)
@@ -124,6 +131,9 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 
 * MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training [[Paper]](https://arxiv.org/abs/2311.17049) ![](https://img.shields.io/badge/year-2024-red)
 * PromptKD: Unsupervised Prompt Distillation for Vision-Language Models [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_PromptKD_Unsupervised_Prompt_Distillation_for_Vision-Language_Models_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/year-2024-red)
+* Dynamic contrastive distillation for image-text retrieval [[Paper]](https://arxiv.org/abs/2207.01426) ![](https://img.shields.io/badge/year-2023-red)
+* CLIP-TD: CLIP targeted distillation for vision-language tasks [[Paper]](https://arxiv.org/abs/2201.05729) ![](https://img.shields.io/badge/year-2022-red)
+* CLIPPING: Distilling CLIP-Based Models with a Student Base for Video-Language Retrieval [[Paper]](https://arxiv.org/abs/2201.05729) ![](https://img.shields.io/badge/year-2023-red)
 * Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training [[Paper]](https://arxiv.org/abs/2301.02280) ![](https://img.shields.io/badge/year-2023-red)
 * TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance [[Paper]](https://arxiv.org/abs/2309.12314) ![](https://img.shields.io/badge/year-2023-red)
 * A Sentence Speaks a Thousand Images: Domain Generalization through Distilling CLIP with Language Guidance [[Paper]](https://arxiv.org/abs/2309.12530) ![](https://img.shields.io/badge/year-2023-red)
@@ -137,6 +147,9 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 
 ## Section IV: White-box Distillation
 
+* AME: Aligned Manifold Entropy for Robust Vision-Language Distillation [[Paper]](https://arxiv.org/abs/2508.08644) ![](https://img.shields.io/badge/year-2025-red)
+* Towards Long-window Anchoring in Vision-Language Model Distillation [[Paper]](https://arxiv.org/abs/2512.21576) ![](https://img.shields.io/badge/year-2025-red)
+* PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization [[Paper]](https://arxiv.org/abs/2404.09011) ![](https://img.shields.io/badge/year-2024-red)
 * Layerwised Multimodal Knowledge Distillation for Vision-Language Pretrained Model [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0893608024001965) ![](https://img.shields.io/badge/year-2024-red)
 * KD-VLP: Improving End-to-End Vision-and-Language Pretraining with Object Knowledge Distillation [[Paper]](https://arxiv.org/abs/2109.10504) ![](https://img.shields.io/badge/year-2022-red)
 * CompoDistill: Attention Distillation for Compositional Reasoning in Multimodal LLMs [[Paper]](https://arxiv.org/abs/2510.12184) ![](https://img.shields.io/badge/year-2025-red)
@@ -160,6 +173,8 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 
 ## Section V: Black-box Distillation
 
+* Online In-Context Distillation for Low-Resource Vision Language Models [[Paper]](https://arxiv.org/abs/2510.18117) ![](https://img.shields.io/badge/year-2025-red)
+* Adversarial prompt distillation for vision-language models [[Paper]](https://arxiv.org/abs/2411.15244) ![](https://img.shields.io/badge/year-2024-red)
 * Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models [[Paper]](https://arxiv.org/abs/2312.03052) ![](https://img.shields.io/badge/year-2024-red)
 * ShareGPT4V: Improving Large Multi-Modal Models with Better Captions [[Paper]](https://arxiv.org/abs/2311.12793) ![](https://img.shields.io/badge/year-2023-red)
 * MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models [[Paper]](https://arxiv.org/abs/2304.10592) ![](https://img.shields.io/badge/year-2023-red)
@@ -174,6 +189,7 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 ## Section VI: Self-Distillation
 
 * COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training [[Paper]](https://arxiv.org/abs/2412.01814) ![](https://img.shields.io/badge/year-2025-red)
+* Multimodality Self-distillation for Fast Inference of Vision and Language Pretrained Models [[Paper]](https://ieeexplore.ieee.org/document/10487847) ![](https://img.shields.io/badge/year-2024-red)
 * Align before Fuse: Vision and Language Representation Learning with Momentum Distillation [[Paper]](https://arxiv.org/abs/2107.07651) ![](https://img.shields.io/badge/year-2021-red)
 * Building Vision-Language Models on Solid Foundations with Masked Distillation [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper.pdf) ![](https://img.shields.io/badge/year-2024-red)
 * Improving Zero-Shot Generalization of Learned Prompts via Unsupervised Knowledge Distillation [[Paper]](https://arxiv.org/abs/2407.03056) ![](https://img.shields.io/badge/year-2024-red)
@@ -191,6 +207,7 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * Retaining Knowledge and Enhancing Long-Text Representations in CLIP through Dual-Teacher Distillation [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_Retaining_Knowledge_and_Enhancing_Long-Text_Representations_in_CLIP_through_Dual-Teacher_CVPR_2025_paper.pdf) ![](https://img.shields.io/badge/year-2025-red)
 * KAID: Knowledge-Aware Interactive Distillation for Vision-Language Models [[Paper]](https://www.semanticscholar.org/paper/KAID%3A-Knowledge-Aware-Interactive-Distillation-for-Zhang-Wang/30af36e012240ef4402b57230c109900f49f7102) ![](https://img.shields.io/badge/year-2025-red)
 * DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action [[Paper]](https://arxiv.org/abs/2511.22134) ![](https://img.shields.io/badge/year-2025-red)
+* DIME-FM: Distilling Multimodal and Efficient Foundation Models [[Paper]](https://arxiv.org/abs/2303.18232) ![](https://img.shields.io/badge/year-2023-red)
 
 
 ## Section VIII: Structural Compatibility - Isomorphic
@@ -220,6 +237,7 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 
 ## Section IX: Structural Compatibility - Cross-Architecture
 
+* Clip4Retrofit: Enabling real-time image labeling on edge devices via cross-architecture CLIP distillation [[Paper]](https://arxiv.org/abs/2505.18039) ![](https://img.shields.io/badge/year-2025-red)
 * TinyViT: Fast Pretraining Distillation for Small Vision Transformers [[Paper]](https://arxiv.org/abs/2207.10666) ![](https://img.shields.io/badge/year-2022-red)
 * MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training [[Paper]](https://arxiv.org/abs/2311.17049) ![](https://img.shields.io/badge/year-2024-red)
 * Generative Negative Text Replay for Continual Vision-Language Pretraining [[Paper]](https://arxiv.org/abs/2210.17322) ![](https://img.shields.io/badge/year-2022-red)
