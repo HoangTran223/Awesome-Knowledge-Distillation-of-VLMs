@@ -44,6 +44,10 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * VL2Lite: Task-Specific Knowledge Distillation from Large Vision-Language Models to Lightweight Networks [[Paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Jang_VL2Lite_Task-Specific_Knowledge_Distillation_from_Large_Vision-Language_Models_to_Lightweight_CVPR_2025_paper.pdf) ![](https://img.shields.io/badge/year-2025-red)
 * VLM-KD: Knowledge Distillation from VLM for Long-Tail Visual Recognition [[Paper]](https://arxiv.org/abs/2408.16930) ![](https://img.shields.io/badge/year-2024-red)
 * VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models [[Paper]](https://arxiv.org/abs/2412.01822) ![](https://img.shields.io/badge/year-2025-red)
+* Distilling Knowledge from Caption-Guided Replay for VLM-Based Continual Learning [[Paper]](https://openreview.net/forum?id=HN18kuyf4o) ![](https://img.shields.io/badge/year-2026-red)
+* Prompt-stable knowledge distillation of vision-language models for efficient waste classification in material recovery facilities [[Paper]](https://www.sciencedirect.com/science/article/pii/S0921344926001096) ![](https://img.shields.io/badge/year-2026-red)
+* Visual-Language Model Knowledge Distillation Method for Image Quality Assessment [[Paper]](https://arxiv.org/abs/2507.15680) ![](https://img.shields.io/badge/year-2025-red)
+* Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation [[Paper]](https://arxiv.org/abs/2605.11651) ![](https://img.shields.io/badge/year-2026-red)
 
 **Sequence Distillation**
 
@@ -56,6 +60,7 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action [[Paper]](https://arxiv.org/abs/2511.22134) ![](https://img.shields.io/badge/year-2025-red)
 * Refined Policy Distillation: From VLA Generalists to RL Experts [[Paper]](https://arxiv.org/abs/2503.05833) ![](https://img.shields.io/badge/year-2025-red)
 * RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization [[Paper]](https://arxiv.org/abs/2602.03310) ![](https://img.shields.io/badge/year-2026-red)
+* Online In-Context Distillation for Low-Resource Vision Language Models [[Paper]](https://arxiv.org/abs/2510.18117) ![](https://img.shields.io/badge/year-2025-red)
 
 **Preference Distillation**
 
@@ -81,6 +86,9 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding [[Paper]](https://arxiv.org/abs/2506.13725) ![](https://img.shields.io/badge/year-2025-red)
 * CLIPSelf: Vision Transformer Distills Itself for Open-Vocabulary Dense Prediction [[Paper]](https://arxiv.org/abs/2310.01403) ![](https://img.shields.io/badge/year-2023-red)
 * LP-OVOD: Open-Vocabulary Object Detection by Linear Probing [[Paper]](https://arxiv.org/abs/2310.17109) ![](https://img.shields.io/badge/year-2024-red)
+* LinMU: Multimodal Understanding Made Linear [[Paper]](https://arxiv.org/pdf/2601.01322) ![](https://img.shields.io/badge/year-2026-red)
+* DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer [[Paper]](https://arxiv.org/pdf/2603.15166) ![](https://img.shields.io/badge/year-2026-red)
+* Prodistill: A Progressive Prompting Framework for Fine-Grained VLM Distillation [[Paper]](https://ieeexplore.ieee.org/document/11461281/) ![](https://img.shields.io/badge/year-2026-red)
 
 **Attention Distillation**
 
@@ -89,6 +97,7 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance [[Paper]](https://arxiv.org/abs/2309.12314) ![](https://img.shields.io/badge/year-2023-red)
 * AC^2-VLA: Action-Context-Aware Adaptive Computation in Vision-Language-Action Models for Efficient Robotic Manipulation [[Paper]](https://arxiv.org/abs/2601.19634) ![](https://img.shields.io/badge/year-2026-red)
 * DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception [[Paper]](https://arxiv.org/abs/2505.04410) ![](https://img.shields.io/badge/year-2025-red)
+* Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.21288) ![](https://img.shields.io/badge/year-2026-red)
 
 **Cross-modal Feature Distillation**
 
@@ -110,6 +119,7 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * Object-Aware Distillation Pyramid for Open-Vocabulary Object Detection [[Paper]](https://arxiv.org/abs/2303.05892) ![](https://img.shields.io/badge/year-2023-red)
 * Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection [[Paper]](https://arxiv.org/abs/2406.00510) ![](https://img.shields.io/badge/year-2024-red)
 * SKDF: A Simple Knowledge Distillation Framework for Distilling Open-Vocabulary Knowledge to Open-World Object Detector [[Paper]](https://arxiv.org/abs/2312.08653) ![](https://img.shields.io/badge/year-2024-red)
+* FLARE: Learning Future-Aware Latent Representations from Vision-Language Models for Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.05611) ![](https://img.shields.io/badge/year-2026-red)
 
 
 ## Section III: Relation-based Distillation
@@ -125,6 +135,7 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * CLIP-Embed-KD: Computationally Efficient Knowledge Distillation Using Embeddings as Teachers [[Paper]](https://arxiv.org/abs/2404.06170) ![](https://img.shields.io/badge/year-2024-red)
 * Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training [[Paper]](https://arxiv.org/abs/2301.02280) ![](https://img.shields.io/badge/year-2023-red)
 * Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation [[Paper]](https://arxiv.org/abs/2104.13921) ![](https://img.shields.io/badge/year-2022-red)
+* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/pdf/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
 
 **Contrastive Distillation**
 
@@ -169,6 +180,15 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * Unsupervised Knowledge Distillation via Local Representations for Vision-Language Models [[Paper]](https://ieeexplore.ieee.org/document/11048580) ![](https://img.shields.io/badge/year-2025-red)
 * LLaVA-KD: A Framework of Distilling Multimodal Large Language Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models_ICCV_2025_paper.pdf) ![](https://img.shields.io/badge/year-2025-red)
 * GenRecal: Generation after Recalibration from Large to Small Vision-Language Models [[Paper]](https://arxiv.org/pdf/2506.15681) ![](https://img.shields.io/badge/year-2025-red)
+* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/pdf/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
+* Prompt-stable knowledge distillation of vision-language models for efficient waste classification in material recovery facilities [[Paper]](https://www.sciencedirect.com/science/article/pii/S0921344926001096) ![](https://img.shields.io/badge/year-2026-red)
+* Visual-Language Model Knowledge Distillation Method for Image Quality Assessment [[Paper]](https://arxiv.org/abs/2507.15680) ![](https://img.shields.io/badge/year-2025-red)
+* LinMU: Multimodal Understanding Made Linear [[Paper]](https://arxiv.org/pdf/2601.01322) ![](https://img.shields.io/badge/year-2026-red)
+* FLARE: Learning Future-Aware Latent Representations from Vision-Language Models for Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.05611) ![](https://img.shields.io/badge/year-2026-red)
+* DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer [[Paper]](https://arxiv.org/pdf/2603.15166) ![](https://img.shields.io/badge/year-2026-red)
+* Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation [[Paper]](https://arxiv.org/abs/2605.11651) ![](https://img.shields.io/badge/year-2026-red)
+* Prodistill: A Progressive Prompting Framework for Fine-Grained VLM Distillation [[Paper]](https://ieeexplore.ieee.org/document/11461281/) ![](https://img.shields.io/badge/year-2026-red)
+
 
 ## Section V: Black-box Distillation
 
@@ -183,6 +203,7 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning [[Paper]](https://arxiv.org/abs/2412.09858) ![](https://img.shields.io/badge/year-2024-red)
 * Open-Vocabulary One-Stage Detection with Hierarchical Visual-Language Knowledge Distillation [[Paper]](https://arxiv.org/abs/2203.10593) ![](https://img.shields.io/badge/year-2022-red)
 * Bridging the Gap between Object and Image-Level Representations for Open-Vocabulary Detection [[Paper]](https://arxiv.org/abs/2207.03482) ![](https://img.shields.io/badge/year-2022-red)
+* DISTILLING KNOWLEDGE FROM CAPTION-GUIDED REPLAY FOR VLM-BASED CONTINUAL LEARNING [[Paper]](https://openreview.net/forum?id=HN18kuyf4o) ![](https://img.shields.io/badge/year-2026-red)
 
 
 ## Section VI: Self-Distillation
@@ -207,6 +228,7 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * KAID: Knowledge-Aware Interactive Distillation for Vision-Language Models [[Paper]](https://www.semanticscholar.org/paper/KAID%3A-Knowledge-Aware-Interactive-Distillation-for-Zhang-Wang/30af36e012240ef4402b57230c109900f49f7102) ![](https://img.shields.io/badge/year-2025-red)
 * DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action [[Paper]](https://arxiv.org/abs/2511.22134) ![](https://img.shields.io/badge/year-2025-red)
 * DIME-FM: Distilling Multimodal and Efficient Foundation Models [[Paper]](https://arxiv.org/abs/2303.18232) ![](https://img.shields.io/badge/year-2023-red)
+* Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.21288) ![](https://img.shields.io/badge/year-2026-red)
 
 
 ## Section VIII: Structural Compatibility - Isomorphic
@@ -232,6 +254,10 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * A Hierarchical Semantic Distillation Framework for Open-Vocabulary Object Detection [[Paper]](https://arxiv.org/abs/2503.10152) ![](https://img.shields.io/badge/year-2025-red)
 * CAKE: Category Aware Knowledge Extraction for Open-Vocabulary Object Detection [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32639)
 * GenRecal: Generation after Recalibration from Large to Small Vision-Language Models [[Paper]](https://arxiv.org/pdf/2506.15681) ![](https://img.shields.io/badge/year-2025-red)
+* DISTILLING KNOWLEDGE FROM CAPTION-GUIDED REPLAY FOR VLM-BASED CONTINUAL LEARNING [[Paper]](https://openreview.net/forum?id=HN18kuyf4o) ![](https://img.shields.io/badge/year-2026-red)
+* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/pdf/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
+* Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.21288) ![](https://img.shields.io/badge/year-2026-red)
+* Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation [[Paper]](https://arxiv.org/abs/2605.11651) ![](https://img.shields.io/badge/year-2026-red)
 
 
 ## Section IX: Structural Compatibility - Cross-Architecture
@@ -250,6 +276,9 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning [[Paper]](https://arxiv.org/abs/2412.09858) ![](https://img.shields.io/badge/year-2024-red)
 * VITA-VLA: Efficiently Teaching Vision-Language Models to Act via Action Expert Distillation [[Paper]](https://arxiv.org/abs/2510.09607) ![](https://img.shields.io/badge/year-2025-red)
 * Refined Policy Distillation: From VLA Generalists to RL Experts [[Paper]](https://arxiv.org/abs/2503.05833) ![](https://img.shields.io/badge/year-2025-red)
+* Online In-Context Distillation for Low-Resource Vision Language Models [[Paper]](https://arxiv.org/abs/2510.18117) ![](https://img.shields.io/badge/year-2025-red)
+* LinMU: Multimodal Understanding Made Linear [[Paper]](https://arxiv.org/pdf/2601.01322) ![](https://img.shields.io/badge/year-2026-red)
+* Prodistill: A Progressive Prompting Framework for Fine-Grained VLM Distillation [[Paper]](https://ieeexplore.ieee.org/document/11461281/) ![](https://img.shields.io/badge/year-2026-red)
 
 
 ## Section X: Structural Compatibility - Cross-Modal
@@ -263,6 +292,10 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * FD-VLA: Force-Distilled Vision-Language-Action Model for Contact-Rich Manipulation [[Paper]](https://arxiv.org/abs/2602.02142) ![](https://img.shields.io/badge/year-2026-red)
 * Bridging the Gap between Object and Image-Level Representations for Open-Vocabulary Detection [[Paper]](https://arxiv.org/abs/2207.03482) ![](https://img.shields.io/badge/year-2022-red)
 * The Modality Focusing Hypothesis: Towards Understanding Crossmodal Knowledge Distillation [[Paper]](https://arxiv.org/abs/2206.06487) ![](https://img.shields.io/badge/year-2022-red)
+* Prompt-stable knowledge distillation of vision-language models for efficient waste classification in material recovery facilities [[Paper]](https://www.sciencedirect.com/science/article/pii/S0921344926001096) ![](https://img.shields.io/badge/year-2026-red)
+* Visual-Language Model Knowledge Distillation Method for Image Quality Assessment [[Paper]](https://arxiv.org/abs/2507.15680) ![](https://img.shields.io/badge/year-2025-red)
+* FLARE: Learning Future-Aware Latent Representations from Vision-Language Models for Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.05611) ![](https://img.shields.io/badge/year-2026-red)
+* DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer [[Paper]](https://arxiv.org/pdf/2603.15166) ![](https://img.shields.io/badge/year-2026-red)
 
 ---
 
@@ -334,3 +367,4 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * LP-OVOD: Open-Vocabulary Object Detection by Linear Probing [[Paper]](https://arxiv.org/abs/2310.17109) ![](https://img.shields.io/badge/year-2024-red)
 * SKDF: A Simple Knowledge Distillation Framework for Distilling Open-Vocabulary Knowledge to Open-World Object Detector [[Paper]](https://arxiv.org/abs/2312.08653) ![](https://img.shields.io/badge/year-2024-red)
 * VLDadaptor: Domain Adaptive Object Detection with Vision-Language Model Distillation [[Paper]](https://ieeexplore.ieee.org/document/10669066) ![](https://img.shields.io/badge/year-2024-red)
+* Switch-KD: Visual-Switch KD for Vision-Language Models [[Paper]](https://arxiv.org/abs/2604.14629) ![](https://img.shields.io/badge/year-2026-red)
