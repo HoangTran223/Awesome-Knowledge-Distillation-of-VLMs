@@ -8,17 +8,28 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 
 ![Taxonomy](./Figure/Taxonomy.png)
 
+This survey organizes VLM distillation methods along three **orthogonal** axes. Each axis is illustrated below, immediately before the corresponding paper sections.
+
+| Axis | Question | Sections |
+|---|---|---|
+| **Knowledge Type** | What does the student learn from the teacher? | [I](#section-i-response-based-distillation) · [II](#section-ii-feature-based-distillation) · [III](#section-iii-relation-based-distillation) |
+| **Teacher Accessibility** | What can the student observe about the teacher? | [IV](#section-iv-white-box-distillation) · [V](#section-v-black-box-distillation) · [VI](#section-vi-self-distillation) · [VII](#section-vii-multi-teacher-distillation) |
+| **Structural Compatibility** | What must be bridged before distillation can proceed? | [VIII](#section-viii-structural-compatibility---isomorphic) · [IX](#section-ix-structural-compatibility---cross-architecture) · [X](#section-x-structural-compatibility---cross-modal) |
+
 ## 📚 Table of Contents
 
 - [Awesome-KD-VLMs](#awesome-kd-vlms)
   - [📊 Taxonomy](#-taxonomy)
+  - [Knowledge Type](#knowledge-type)
   - [Section I: Response-based Distillation](#section-i-response-based-distillation)
   - [Section II: Feature-based Distillation](#section-ii-feature-based-distillation)
   - [Section III: Relation-based Distillation](#section-iii-relation-based-distillation)
+  - [Teacher Accessibility](#teacher-accessibility)
   - [Section IV: White-box Distillation](#section-iv-white-box-distillation)
   - [Section V: Black-box Distillation](#section-v-black-box-distillation)
   - [Section VI: Self-Distillation](#section-vi-self-distillation)
   - [Section VII: Multi-teacher Distillation](#section-vii-multi-teacher-distillation)
+  - [Structural Compatibility](#structural-compatibility)
   - [Section VIII: Structural Compatibility - Isomorphic](#section-viii-structural-compatibility---isomorphic)
   - [Section IX: Structural Compatibility - Cross-Architecture](#section-ix-structural-compatibility---cross-architecture)
   - [Section X: Structural Compatibility - Cross-Modal](#section-x-structural-compatibility---cross-modal)
@@ -27,6 +38,17 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
   - [VLM Knowledge Distillation for Segmentation](#vlm-knowledge-distillation-for-segmentation)
   - [VLM Knowledge Distillation for Open-Vocabulary Object Detection](#vlm-knowledge-distillation-for-open-vocabulary-object-detection)
 
+## Knowledge Type
+
+<p align="left">
+  <img src="./Figure/Figure_2.jpg" alt="Knowledge Type view of VLM distillation" width="600">
+</p>
+
+| Branch | Section |
+|---|---|
+| Response-based Distillation | [Section I](#section-i-response-based-distillation) |
+| Feature-based Distillation | [Section II](#section-ii-feature-based-distillation) |
+| Relation-based Distillation | [Section III](#section-iii-relation-based-distillation) |
 
 ## Section I: Response-based Distillation
 
@@ -154,6 +176,18 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * Exploring Multi-Modal Contextual Knowledge for Open-Vocabulary Object Detection [[Paper]](https://arxiv.org/abs/2308.15846) ![](https://img.shields.io/badge/year-2023-red)
 * VLDadaptor: Domain Adaptive Object Detection with Vision-Language Model Distillation [[Paper]](https://ieeexplore.ieee.org/document/10669066) ![](https://img.shields.io/badge/year-2024-red)
 
+## Teacher Accessibility
+
+<p align="left">
+  <img src="./Figure/Figure_3.jpg" alt="Teacher accessibility view of VLM distillation" width="600">
+</p>
+
+| Regime | Section |
+|---|---|
+| White-box Distillation  | [Section IV](#section-iv-white-box-distillation) |
+| Black-box Distillation  | [Section V](#section-v-black-box-distillation) |
+| Self-Distillation | [Section VI](#section-vi-self-distillation) |
+| Multi-teacher Distillation  | [Section VII](#section-vii-multi-teacher-distillation) |
 
 ## Section IV: White-box Distillation
 
@@ -230,6 +264,17 @@ Below is the taxonomy summarizing the landscape of knowledge distillation resear
 * DIME-FM: Distilling Multimodal and Efficient Foundation Models [[Paper]](https://arxiv.org/abs/2303.18232) ![](https://img.shields.io/badge/year-2023-red)
 * Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.21288) ![](https://img.shields.io/badge/year-2026-red)
 
+## Structural Compatibility
+
+<p align="left">
+  <img src="./Figure/Figure_4.jpg" alt="Structural compatibility view of VLM distillation" width="600">
+</p>
+
+| Type | Section |
+|---|---|
+| Isomorphic | [Section VIII](#section-viii-structural-compatibility---isomorphic) |
+| Cross-Architecture | [Section IX](#section-ix-structural-compatibility---cross-architecture) |
+| Cross-Modal | [Section X](#section-x-structural-compatibility---cross-modal) |
 
 ## Section VIII: Structural Compatibility - Isomorphic
 
