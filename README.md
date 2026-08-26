@@ -70,6 +70,9 @@ This survey organizes VLM distillation methods along three **orthogonal** axes. 
 * Prompt-stable knowledge distillation of vision-language models for efficient waste classification in material recovery facilities [[Paper]](https://www.sciencedirect.com/science/article/pii/S0921344926001096) ![](https://img.shields.io/badge/year-2026-red)
 * Visual-Language Model Knowledge Distillation Method for Image Quality Assessment [[Paper]](https://arxiv.org/abs/2507.15680) ![](https://img.shields.io/badge/year-2025-red)
 * Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation [[Paper]](https://arxiv.org/abs/2605.11651) ![](https://img.shields.io/badge/year-2026-red)
+* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/abs/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
+* Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge [[Paper]](https://icml.cc/virtual/2026/poster/66244) ![](https://img.shields.io/badge/year-2026-red)
+* Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm [[Paper]](https://icml.cc/virtual/2026/poster/60546) ![](https://img.shields.io/badge/year-2026-red)
 
 **Sequence Distillation**
 
@@ -142,6 +145,8 @@ This survey organizes VLM distillation methods along three **orthogonal** axes. 
 * Learning Background Prompts to Discover Implicit Knowledge for Open Vocabulary Object Detection [[Paper]](https://arxiv.org/abs/2406.00510) ![](https://img.shields.io/badge/year-2024-red)
 * SKDF: A Simple Knowledge Distillation Framework for Distilling Open-Vocabulary Knowledge to Open-World Object Detector [[Paper]](https://arxiv.org/abs/2312.08653) ![](https://img.shields.io/badge/year-2024-red)
 * FLARE: Learning Future-Aware Latent Representations from Vision-Language Models for Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.05611) ![](https://img.shields.io/badge/year-2026-red)
+* HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models [[Paper]](https://icml.cc/virtual/2026/poster/63112) ![](https://img.shields.io/badge/year-2026-red)
+* Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm [[Paper]](https://icml.cc/virtual/2026/poster/60546) ![](https://img.shields.io/badge/year-2026-red)
 
 
 ## Section III: Relation-based Distillation
@@ -157,7 +162,8 @@ This survey organizes VLM distillation methods along three **orthogonal** axes. 
 * CLIP-Embed-KD: Computationally Efficient Knowledge Distillation Using Embeddings as Teachers [[Paper]](https://arxiv.org/abs/2404.06170) ![](https://img.shields.io/badge/year-2024-red)
 * Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training [[Paper]](https://arxiv.org/abs/2301.02280) ![](https://img.shields.io/badge/year-2023-red)
 * Open-Vocabulary Object Detection via Vision and Language Knowledge Distillation [[Paper]](https://arxiv.org/abs/2104.13921) ![](https://img.shields.io/badge/year-2022-red)
-* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/pdf/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
+* HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models [[Paper]](https://icml.cc/virtual/2026/poster/63112) ![](https://img.shields.io/badge/year-2026-red)
+* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/abs/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
 
 **Contrastive Distillation**
 
@@ -214,7 +220,6 @@ This survey organizes VLM distillation methods along three **orthogonal** axes. 
 * Unsupervised Knowledge Distillation via Local Representations for Vision-Language Models [[Paper]](https://ieeexplore.ieee.org/document/11048580) ![](https://img.shields.io/badge/year-2025-red)
 * LLaVA-KD: A Framework of Distilling Multimodal Large Language Models [[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Cai_LLaVA-KD_A_Framework_of_Distilling_Multimodal_Large_Language_Models_ICCV_2025_paper.pdf) ![](https://img.shields.io/badge/year-2025-red)
 * GenRecal: Generation after Recalibration from Large to Small Vision-Language Models [[Paper]](https://arxiv.org/pdf/2506.15681) ![](https://img.shields.io/badge/year-2025-red)
-* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/pdf/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
 * Prompt-stable knowledge distillation of vision-language models for efficient waste classification in material recovery facilities [[Paper]](https://www.sciencedirect.com/science/article/pii/S0921344926001096) ![](https://img.shields.io/badge/year-2026-red)
 * Visual-Language Model Knowledge Distillation Method for Image Quality Assessment [[Paper]](https://arxiv.org/abs/2507.15680) ![](https://img.shields.io/badge/year-2025-red)
 * LinMU: Multimodal Understanding Made Linear [[Paper]](https://arxiv.org/pdf/2601.01322) ![](https://img.shields.io/badge/year-2026-red)
@@ -222,7 +227,9 @@ This survey organizes VLM distillation methods along three **orthogonal** axes. 
 * DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer [[Paper]](https://arxiv.org/pdf/2603.15166) ![](https://img.shields.io/badge/year-2026-red)
 * Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation [[Paper]](https://arxiv.org/abs/2605.11651) ![](https://img.shields.io/badge/year-2026-red)
 * Prodistill: A Progressive Prompting Framework for Fine-Grained VLM Distillation [[Paper]](https://ieeexplore.ieee.org/document/11461281/) ![](https://img.shields.io/badge/year-2026-red)
-
+* HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models [[Paper]](https://icml.cc/virtual/2026/poster/63112) ![](https://img.shields.io/badge/year-2026-red)
+* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/abs/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
+* Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm [[Paper]](https://icml.cc/virtual/2026/poster/60546) ![](https://img.shields.io/badge/year-2026-red)
 
 ## Section V: Black-box Distillation
 
@@ -238,7 +245,7 @@ This survey organizes VLM distillation methods along three **orthogonal** axes. 
 * Open-Vocabulary One-Stage Detection with Hierarchical Visual-Language Knowledge Distillation [[Paper]](https://arxiv.org/abs/2203.10593) ![](https://img.shields.io/badge/year-2022-red)
 * Bridging the Gap between Object and Image-Level Representations for Open-Vocabulary Detection [[Paper]](https://arxiv.org/abs/2207.03482) ![](https://img.shields.io/badge/year-2022-red)
 * DISTILLING KNOWLEDGE FROM CAPTION-GUIDED REPLAY FOR VLM-BASED CONTINUAL LEARNING [[Paper]](https://openreview.net/forum?id=HN18kuyf4o) ![](https://img.shields.io/badge/year-2026-red)
-
+* Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge [[Paper]](https://icml.cc/virtual/2026/poster/66244) ![](https://img.shields.io/badge/year-2026-red)
 
 ## Section VI: Self-Distillation
 
@@ -300,9 +307,9 @@ This survey organizes VLM distillation methods along three **orthogonal** axes. 
 * CAKE: Category Aware Knowledge Extraction for Open-Vocabulary Object Detection [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32639)
 * GenRecal: Generation after Recalibration from Large to Small Vision-Language Models [[Paper]](https://arxiv.org/pdf/2506.15681) ![](https://img.shields.io/badge/year-2025-red)
 * DISTILLING KNOWLEDGE FROM CAPTION-GUIDED REPLAY FOR VLM-BASED CONTINUAL LEARNING [[Paper]](https://openreview.net/forum?id=HN18kuyf4o) ![](https://img.shields.io/badge/year-2026-red)
-* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/pdf/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
 * Drive-KD: Multi-Teacher Distillation for VLMs in Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.21288) ![](https://img.shields.io/badge/year-2026-red)
 * Hide to See: Reasoning-prefix Masking for Visual-anchored Thinking in VLM Distillation [[Paper]](https://arxiv.org/abs/2605.11651) ![](https://img.shields.io/badge/year-2026-red)
+* Gated Relational Alignment via Confidence-based Distillation for Efficient VLMs [[Paper]](https://arxiv.org/abs/2601.22709) ![](https://img.shields.io/badge/year-2026-red)
 
 
 ## Section IX: Structural Compatibility - Cross-Architecture
@@ -341,6 +348,9 @@ This survey organizes VLM distillation methods along three **orthogonal** axes. 
 * Visual-Language Model Knowledge Distillation Method for Image Quality Assessment [[Paper]](https://arxiv.org/abs/2507.15680) ![](https://img.shields.io/badge/year-2025-red)
 * FLARE: Learning Future-Aware Latent Representations from Vision-Language Models for Autonomous Driving [[Paper]](https://arxiv.org/abs/2601.05611) ![](https://img.shields.io/badge/year-2026-red)
 * DAIT: Distillation from Vision-Language Models to Lightweight Classifiers with Adaptive Intermediate Teacher Transfer [[Paper]](https://arxiv.org/pdf/2603.15166) ![](https://img.shields.io/badge/year-2026-red)
+* HieRD: Hierarchical Relational Distillation for Vision-Language Embedding Models [[Paper]](https://icml.cc/virtual/2026/poster/63112) ![](https://img.shields.io/badge/year-2026-red)
+* Large Language Model Teaches Visual Students: Cross-Modality Transfer of Fine-Grained Conceptual Knowledge [[Paper]](https://icml.cc/virtual/2026/poster/66244) ![](https://img.shields.io/badge/year-2026-red)
+* Cross-Modal Knowledge Distillation without Paired Data: Theoretical Foundation and Algorithm [[Paper]](https://icml.cc/virtual/2026/poster/60546) ![](https://img.shields.io/badge/year-2026-red)
 
 ---
 
