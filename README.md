@@ -1,10 +1,12 @@
 ## A Survey on Knowledge Distillation of Vision-Language Models
 
-🔔 **News**
+## 🔔 News
 
-[21/08/2026] 🎉 This survey has been accepted by the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026!
+- **[21/08/2026]** 🎉 This survey has been accepted by the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026!
 
-In this paper, we present the first dedicated survey of knowledge distillation for vision-language models. We propose a unified taxonomy that organizes methods along three orthogonal views: **knowledge type**, **teacher accessibility**, and **structural compatibility**, and use it to organize methods across major VLM distillation settings.
+## 📝 Introduction
+
+This paper provides **the first dedicated survey of knowledge distillation for vision-language models**. We propose a unified taxonomy that organizes methods along three orthogonal views: knowledge type, teacher accessibility, and structural compatibility, and use it to organize methods across major VLM distillation settings.
 
 ## 📊 Taxonomy
 
@@ -20,27 +22,12 @@ This survey organizes VLM distillation methods along three **orthogonal** axes. 
 | **Teacher Accessibility** | What can the student observe about the teacher? | [IV](#section-iv-white-box-distillation) · [V](#section-v-black-box-distillation) · [VI](#section-vi-self-distillation) · [VII](#section-vii-multi-teacher-distillation) |
 | **Structural Compatibility** | What must be bridged before distillation can proceed? | [VIII](#section-viii-structural-compatibility---isomorphic) · [IX](#section-ix-structural-compatibility---cross-architecture) · [X](#section-x-structural-compatibility---cross-modal) |
 
-## 📚 Table of Contents
-
-- [Awesome-KD-VLMs](#awesome-kd-vlms)
-  - [📊 Taxonomy](#-taxonomy)
-  - [Knowledge Type](#knowledge-type)
-  - [Section I: Response-based Distillation](#section-i-response-based-distillation)
-  - [Section II: Feature-based Distillation](#section-ii-feature-based-distillation)
-  - [Section III: Relation-based Distillation](#section-iii-relation-based-distillation)
-  - [Teacher Accessibility](#teacher-accessibility)
-  - [Section IV: White-box Distillation](#section-iv-white-box-distillation)
-  - [Section V: Black-box Distillation](#section-v-black-box-distillation)
-  - [Section VI: Self-Distillation](#section-vi-self-distillation)
-  - [Section VII: Multi-teacher Distillation](#section-vii-multi-teacher-distillation)
-  - [Structural Compatibility](#structural-compatibility)
-  - [Section VIII: Structural Compatibility - Isomorphic](#section-viii-structural-compatibility---isomorphic)
-  - [Section IX: Structural Compatibility - Cross-Architecture](#section-ix-structural-compatibility---cross-architecture)
-  - [Section X: Structural Compatibility - Cross-Modal](#section-x-structural-compatibility---cross-modal)
-  - [Knowledge Distillation for Vision-Language-Action Models](#knowledge-distillation-for-vision-language-action-models)
-  - [Knowledge Distillation for Vision-Language Embedding Models](#knowledge-distillation-for-vision-language-embedding-models)
-  - [VLM Knowledge Distillation for Segmentation](#vlm-knowledge-distillation-for-segmentation)
-  - [VLM Knowledge Distillation for Open-Vocabulary Object Detection](#vlm-knowledge-distillation-for-open-vocabulary-object-detection)
+| Application | Section |
+|---|---|
+| Vision-Language-Action | [VLA](#knowledge-distillation-for-vision-language-action-models) |
+| Vision-Language Embedding | [Embedding](#knowledge-distillation-for-vision-language-embedding-models) |
+| Semantic Segmentation | [Segmentation](#vlm-knowledge-distillation-for-segmentation) |
+| Open-Vocabulary Object Detection | [OVD](#vlm-knowledge-distillation-for-open-vocabulary-object-detection) |
 
 ## Knowledge Type
 
