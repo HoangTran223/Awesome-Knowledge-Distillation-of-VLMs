@@ -2,6 +2,7 @@
 
 ## 🔔 News
 
+- **[10/09/2026]** Camera-ready version for EMNLP 2026 is now available [[PDF]](./paper/EMNLP2026_A_Survey_on_Knowledge_Distillation_of_VLMs.pdf).
 - **[21/08/2026]** 🎉 This survey has been accepted by the Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026!
 
 ## 📝 Introduction
